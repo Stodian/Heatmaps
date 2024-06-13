@@ -1,2 +1,0 @@
-# Heatmaps
-Habit Tracker
